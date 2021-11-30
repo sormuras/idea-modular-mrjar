@@ -1,10 +1,11 @@
-import mod.MyClass;
+package mod;
+
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-class Mod17Tests {
+public class Mod17Tests {
   @Test
-  void test17() {
+  public void test17() {
     Assertions.assertEquals("17", new MyClass().toString());
   }
 }

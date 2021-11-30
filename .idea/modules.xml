@@ -3,9 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/idea-modular-mrjar.iml" filepath="$PROJECT_DIR$/.idea/idea-modular-mrjar.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/mod17.iml" filepath="$PROJECT_DIR$/.idea/mod17.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/mod8.iml" filepath="$PROJECT_DIR$/.idea/mod8.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/mod9.iml" filepath="$PROJECT_DIR$/.idea/mod9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mod17/mod17.iml" filepath="$PROJECT_DIR$/mod17/mod17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mod8/mod8.iml" filepath="$PROJECT_DIR$/mod8/mod8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mod9/mod9.iml" filepath="$PROJECT_DIR$/mod9/mod9.iml" />
     </modules>
   </component>
 </project>
