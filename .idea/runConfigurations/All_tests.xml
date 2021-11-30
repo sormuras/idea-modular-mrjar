@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="All tests" type="CompoundRunConfigurationType">
+    <toRun name="All in mod8" type="JUnit" />
+    <toRun name="All in mod9" type="JUnit" />
+    <toRun name="All in mod17" type="JUnit" />
+    <method v="2" />
+  </configuration>
+</component>
